@@ -30,5 +30,13 @@ A Pixel-Art Style Font Theme for Chinese Aseprite User
   
 根據原作者[建議](https://steamcommunity.com/sharedfiles/filedetails/?id=1333477949)，中文字體大小（利用`<fonts>`標籤屬性的`size`修改）最好設定在8~10。
 
+### 安裝
+下載`.aseprite-extension`，雙擊後讓Aseprite自動安裝。
+
+或
+
+下載`.zip`壓縮檔，手動於Aseprite中新增、啟用主題。
+
 ### 下載
-[點我](https://github.com/CryMasK/Pixel-Chinese-Font/releases)
+- [.aseprite-extension](pixel-chinese-font-theme.aseprite-extension)
+- [.zip](https://github.com/CryMasK/Pixel-Chinese-Font/releases)
