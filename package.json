@@ -1,0 +1,23 @@
+{
+  "name": "pixel-chinese-font",
+  "displayName": "Pixel Chinese Font",
+  "description": "A Pixel-Art Style Chinese Font for the Default Aseprite Theme",
+  "version": "1.3-beta4",
+  "author": { "name": "CryMasK", "url": "https://github.com/CryMasK" },
+  "contributors": [
+    { "name": "J-11", "url": "https://github.com/J-11" },
+    { "name": "David Capello", "email": "davidcapello@gmail.com", "url": "http://davidcapello.com/" },
+    { "name": "Ilija Melentijevic", "url": "http://ilkke.blogspot.com/" },
+    { "name": "Nicolas Desilets", "url": "https://twitter.com/MapleGecko" }
+  ],
+  "publisher": "aseprite",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "pixel-chinese-font", "path": "." }
+    ]
+  }
+}
