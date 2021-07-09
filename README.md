@@ -8,7 +8,7 @@ A Pixel-Art Style Font Theme for Chinese Aseprite User
 本主題只是將Aseprite預設主題的字型替換成適合中文顯示的類型，可自由更換至其他主題上，或使用其他字型。
 
 ### 在其他主題使用此字型的方法
-將字型檔`Zfull-GB.ttf`移至該主題的目錄下，並按下方代碼所示，於該主題的`theme.xml`中添加`<fonts> ... </fonts>`片段：
+將字型檔`Zfull-GB.ttf`移至該主題的目錄下，並按下方代碼所示，於該主題的`theme.xml`中添加/更改`<fonts> ... </fonts>`片段：
 ```
 <theme>
 
