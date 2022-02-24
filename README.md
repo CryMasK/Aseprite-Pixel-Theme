@@ -1,4 +1,4 @@
-Fork from [像素字体主题 / aseprite-theme-pixel](https://github.com/J-11/Aseprite-Simplified-Chinese)
+Forked from [像素字体主题 / aseprite-theme-pixel](https://github.com/J-11/Aseprite-Simplified-Chinese)
 
 # Aseprite 中文像素字型 / Pixel-Chinese-Font
 
